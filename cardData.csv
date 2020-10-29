@@ -1,0 +1,7 @@
+id,subtitle,cardColor,textColor,footerTextPre,footerTextPost,metric
+confirmed,Total Cases,#67000d,white,,of population,confirmed
+deaths,Deaths,#373737,white,,of total cases,deaths
+recovered,Recovered,#c7ea46,black,,of total cases,recovered
+active,Active Cases,#4682b4,white,,of total cases,active
+rNaught,R-naught,#faebd7,black,R-naught for common flu is,,rNaught
+dayCount,Days since outbreak,#6f4e37,white,Spanish Flu lasted for,days,dayCount

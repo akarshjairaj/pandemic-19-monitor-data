@@ -1,0 +1,11 @@
+colList
+country
+timestamp
+confirmed
+deaths
+recovered
+active
+newConfirmed
+newDeaths
+newRecovered
+movingAvg
